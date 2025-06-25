@@ -85,7 +85,7 @@ Para uma simulação mais realista, use dois computadores diferentes.
 ### Passo 2: Executar o Ataque
 1. Navegue até a pasta do atacante:
    ```bash
-   cd ddos-simulation/attacker
+   cd ./attacker
    ```
 
 2. Execute o script de ataque:
@@ -125,6 +125,5 @@ Para uma simulação mais realista, use dois computadores diferentes.
 ### Erro de permissão:
 - Execute o terminal como administrador (Windows)
 - Use `sudo` no Linux/Mac se necessário
-
 
 ---
